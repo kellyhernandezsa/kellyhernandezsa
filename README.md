@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kellyhernandezsa
 - 👀 I’m interested in Educational Technology
-- 🌱 I’m currently learning about programming
 - 💞️ I’m looking to collaborate on Educational Technology
 - 📫 How to reach me. @kell_hernandez
 
